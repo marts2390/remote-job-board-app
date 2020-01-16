@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/remote-job-board-app/precache-manifest.43ce6cd871f4dad031ba7b0897fb1a27.js"
+  "/remote-job-board-app/precache-manifest.718ed50c396da7836684d9c08e724a8f.js"
 );
 
 self.addEventListener('message', (event) => {

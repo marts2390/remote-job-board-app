@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/remote-job-board-app/static/css/main.aae89108.chunk.css",
-    "main.js": "/remote-job-board-app/static/js/main.3cc82555.chunk.js",
-    "main.js.map": "/remote-job-board-app/static/js/main.3cc82555.chunk.js.map",
+    "main.js": "/remote-job-board-app/static/js/main.800431f0.chunk.js",
+    "main.js.map": "/remote-job-board-app/static/js/main.800431f0.chunk.js.map",
     "runtime-main.js": "/remote-job-board-app/static/js/runtime-main.588d3334.js",
     "runtime-main.js.map": "/remote-job-board-app/static/js/runtime-main.588d3334.js.map",
     "static/css/2.e95dff61.chunk.css": "/remote-job-board-app/static/css/2.e95dff61.chunk.css",
-    "static/js/2.8fccfa1d.chunk.js": "/remote-job-board-app/static/js/2.8fccfa1d.chunk.js",
-    "static/js/2.8fccfa1d.chunk.js.map": "/remote-job-board-app/static/js/2.8fccfa1d.chunk.js.map",
+    "static/js/2.4071aea7.chunk.js": "/remote-job-board-app/static/js/2.4071aea7.chunk.js",
+    "static/js/2.4071aea7.chunk.js.map": "/remote-job-board-app/static/js/2.4071aea7.chunk.js.map",
     "index.html": "/remote-job-board-app/index.html",
-    "precache-manifest.43ce6cd871f4dad031ba7b0897fb1a27.js": "/remote-job-board-app/precache-manifest.43ce6cd871f4dad031ba7b0897fb1a27.js",
+    "precache-manifest.718ed50c396da7836684d9c08e724a8f.js": "/remote-job-board-app/precache-manifest.718ed50c396da7836684d9c08e724a8f.js",
     "service-worker.js": "/remote-job-board-app/service-worker.js",
     "static/css/2.e95dff61.chunk.css.map": "/remote-job-board-app/static/css/2.e95dff61.chunk.css.map",
     "static/css/main.aae89108.chunk.css.map": "/remote-job-board-app/static/css/main.aae89108.chunk.css.map",
-    "static/js/2.8fccfa1d.chunk.js.LICENSE": "/remote-job-board-app/static/js/2.8fccfa1d.chunk.js.LICENSE",
+    "static/js/2.4071aea7.chunk.js.LICENSE": "/remote-job-board-app/static/js/2.4071aea7.chunk.js.LICENSE",
     "static/media/remote-banner.4a22bd7c.jpg": "/remote-job-board-app/static/media/remote-banner.4a22bd7c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.588d3334.js",
     "static/css/2.e95dff61.chunk.css",
-    "static/js/2.8fccfa1d.chunk.js",
+    "static/js/2.4071aea7.chunk.js",
     "static/css/main.aae89108.chunk.css",
-    "static/js/main.3cc82555.chunk.js"
+    "static/js/main.800431f0.chunk.js"
   ]
 }
