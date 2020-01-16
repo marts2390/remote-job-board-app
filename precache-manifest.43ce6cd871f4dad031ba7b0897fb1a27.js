@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1578c4a9fd75c02e6603a4faab5ca5ad",
+    "revision": "5d2236d74f8e013be485ccc4f37d7ab8",
     "url": "/remote-job-board-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/remote-job-board-app/static/css/2.e95dff61.chunk.css"
   },
   {
-    "revision": "4cbf5463f8e246654117",
-    "url": "/remote-job-board-app/static/css/main.7267f2ab.chunk.css"
+    "revision": "2647bd8747ce17b28f8c",
+    "url": "/remote-job-board-app/static/css/main.aae89108.chunk.css"
   },
   {
     "revision": "e460705eda4a913182fb",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/remote-job-board-app/static/js/2.8fccfa1d.chunk.js.LICENSE"
   },
   {
-    "revision": "4cbf5463f8e246654117",
+    "revision": "2647bd8747ce17b28f8c",
     "url": "/remote-job-board-app/static/js/main.3cc82555.chunk.js"
   },
   {
